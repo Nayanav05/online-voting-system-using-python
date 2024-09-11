@@ -61,18 +61,16 @@ This project is a simple **Online Voting System** built using Python's Tkinter l
 ### Screenshots
 
 #### Main Voting Screen
+![Screenshot (7)](https://github.com/user-attachments/assets/5f736ce1-a106-4542-ac81-d9f4df1a2820)
 
 
 #### Results Screen
+![Screenshot (86)](https://github.com/user-attachments/assets/f6d66f16-ac01-450f-ba74-c9d51d131488)
 
 
 ### Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgments
 
